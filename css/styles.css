@@ -31,9 +31,8 @@ ul {
 .image-box {
   display: block;
 }
-.header-colors {
+.header-frame {
   border-bottom: 1px solid #e7e9fc;
-  background-color: #fff;
 }
 .header-container {
   display: flex;
@@ -61,13 +60,15 @@ ul {
 .blue {
     color: #2e2f42;
 }
-.navigation {
+.nav {
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 .page-nav {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .page-nav .link {
   color: #2e2f42;
@@ -84,11 +85,7 @@ ul {
   padding: 24px 0;
 }
 .address {
-  background-color: #ffffff;
   font-style: normal;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
   gap: 40px;
 }
 .page-contact {
@@ -103,7 +100,7 @@ ul {
 .page-contact .link:hover,
 .page-contact .link:focus {
   color: #404bbf;
-  text-decoration: underline;
+
 }
 .section {
   background-color: #2e2f42;
@@ -136,6 +133,7 @@ ul {
   height: 56px;
   border: none;
   border-radius: 4px;
+  margin: auto;
 }
 .cursor:hover,
 .cursor:focus {
@@ -186,7 +184,6 @@ ul {
   padding: 120px 0;
 }
 .team-list {
-  background-color: #ffffff;
   display: flex;
   gap: 24px;
 }
@@ -245,7 +242,6 @@ ul {
   letter-spacing: 0.02em;
 }
 .section-fourth-header {
-  background-color: #f4f4fd;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
