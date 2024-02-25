@@ -30,16 +30,15 @@ ul {
 }
 .image-box {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 .header-frame {
   border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
   display: flex;
-  max-width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
-  gap: 300px;
+  align-items: center;
 }
 .logo {
   color: #4d5ae5;
