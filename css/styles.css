@@ -35,7 +35,7 @@ ul {
 }
 .header-colors {
   border-bottom: 1px solid #e7e9fc;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 .header-container {
   display: flex;
@@ -54,7 +54,7 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   margin-right: 76px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 .logo:hover,
 .logo:focus {
