@@ -147,7 +147,7 @@ ul {
 .section-secondary {
   padding: 120px 0;
 }
-.section-secondary-header {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
