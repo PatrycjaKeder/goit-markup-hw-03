@@ -23,11 +23,13 @@ h6,
 p {
   margin: 0;
 }
-ul,
-ol {
+ol,
+ul {
   list-style-type: none;
+  margin: 0;
+  padding-left: 0;
 }
-img {
+.image-box {
   display: block;
   max-width: 100%;
   height: auto;
