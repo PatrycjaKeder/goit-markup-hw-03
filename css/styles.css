@@ -62,9 +62,9 @@ ul {
 }
 .blue {
     color: #2e2f42;
-  }
+}
 .nav {
-  background-color: #ffffff;
+  background-color: #fff;
   display: flex;
   align-items: center;
 }
