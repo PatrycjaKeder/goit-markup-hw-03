@@ -27,10 +27,6 @@ ul,
 ol {
   list-style-type: none;
 }
-a {
-  text-decoration: none;
-  color: inherit;
-}
 img {
   display: block;
   max-width: 100%;
