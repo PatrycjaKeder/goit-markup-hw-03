@@ -23,17 +23,17 @@ h6,
 p {
   margin: 0;
 }
-ol,
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding-left: 0;
+ul, ol { 
+  list-style: none; 
+  margin: 0; 
+  padding-left: 0; 
 }
-.image-box {
+img { 
   display: block;
   max-width: 100%;
   height: auto;
 }
+
 .header-frame {
   border-bottom: 1px solid #e7e9fc;
 }
